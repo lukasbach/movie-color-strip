@@ -1,0 +1,8 @@
+*.json
+*.png
+*.mkv
+movies
+node_modules
+tmp
+examples
+src

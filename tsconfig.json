@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "lib": [
+      "ESNext.Promise"
+    ],
+    "outDir": "lib",
+    "declaration": true
+  }
+}

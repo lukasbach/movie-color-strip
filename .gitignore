@@ -1,0 +1,6 @@
+*.mkv
+movies
+node_modules
+tmp
+lib
+yarn-error.log
