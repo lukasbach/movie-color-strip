@@ -123,3 +123,129 @@ Harry Potter and the Deathly Hollows 2
 
 <img src="https://raw.githubusercontent.com/lukasbach/movie-color-strip/master/examples/harry-potter-8.png" />
 </p>
+
+<p align="center">
+Star Wars I: A Phantom Menace
+
+<img src="https://raw.githubusercontent.com/lukasbach/movie-color-strip/master/examples/star-wars-phantom-menace.png" />
+</p>
+
+<p align="center">
+Star Wars II: Attack of the Clones
+
+<img src="https://raw.githubusercontent.com/lukasbach/movie-color-strip/master/examples/star-wars-attack-of-the-clones.png" />
+</p>
+
+<p align="center">
+Star Wars III: Revenge of the Sith
+
+<img src="https://raw.githubusercontent.com/lukasbach/movie-color-strip/master/examples/star-wars-revenge-of-the-sith.png" />
+</p>
+
+<p align="center">
+Star Wars IV: A new Hope
+
+<img src="https://raw.githubusercontent.com/lukasbach/movie-color-strip/master/examples/star-wars-new-hope.png" />
+</p>
+
+<p align="center">
+Star Wars V: The Empire Strikes back
+
+<img src="https://raw.githubusercontent.com/lukasbach/movie-color-strip/master/examples/star-wars-empire-strikes-back.png" />
+</p>
+
+<p align="center">
+Star Wars VI: Return of the Jedi
+
+<img src="https://raw.githubusercontent.com/lukasbach/movie-color-strip/master/examples/star-wars-return-of-the-jedi.png" />
+</p>
+
+<p align="center">
+Star Wars VII: Force Awakens
+
+<img src="https://raw.githubusercontent.com/lukasbach/movie-color-strip/master/examples/star-wars-force-awakens.png" />
+</p>
+
+<p align="center">
+Star Wars VIII: Last Jedi
+
+<img src="https://raw.githubusercontent.com/lukasbach/movie-color-strip/master/examples/star-wars-last-jedi.png" />
+</p>
+
+<p align="center">
+Star Wars - Rogue One
+
+<img src="https://raw.githubusercontent.com/lukasbach/movie-color-strip/master/examples/star-wars-rogue-one.png" />
+</p>
+
+<p align="center">
+Star Wars - Solo
+
+<img src="https://raw.githubusercontent.com/lukasbach/movie-color-strip/master/examples/star-wars-solo.png" />
+</p>
+
+<p align="center">
+The Martian
+
+<img src="https://raw.githubusercontent.com/lukasbach/movie-color-strip/master/examples/themartian.png" />
+</p>
+
+<p align="center">
+Sonic the Hedgehog (2020)
+
+<img src="https://raw.githubusercontent.com/lukasbach/movie-color-strip/master/examples/sonic.png" />
+</p>
+
+<p align="center">
+Mulan (2020)
+
+<img src="https://raw.githubusercontent.com/lukasbach/movie-color-strip/master/examples/mulan2020.png" />
+</p>
+
+<p align="center">
+Mortal Engines
+
+<img src="https://raw.githubusercontent.com/lukasbach/movie-color-strip/master/examples/mortalengines.png" />
+</p>
+
+<p align="center">
+Lion King (2019)
+
+<img src="https://raw.githubusercontent.com/lukasbach/movie-color-strip/master/examples/lionking2019.png" />
+</p>
+
+<p align="center">
+Hidden Figures
+
+<img src="https://raw.githubusercontent.com/lukasbach/movie-color-strip/master/examples/hiddenfigures.png" />
+</p>
+
+<p align="center">
+Interstellar
+
+<img src="https://raw.githubusercontent.com/lukasbach/movie-color-strip/master/examples/interstellar.png" />
+</p>
+
+<p align="center">
+Deadpool
+
+<img src="https://raw.githubusercontent.com/lukasbach/movie-color-strip/master/examples/deadpool.png" />
+</p>
+
+<p align="center">
+Ex Machina
+
+<img src="https://raw.githubusercontent.com/lukasbach/movie-color-strip/master/examples/exmachina.png" />
+</p>
+
+<p align="center">
+Glass
+
+<img src="https://raw.githubusercontent.com/lukasbach/movie-color-strip/master/examples/glass.png" />
+</p>
+
+<p align="center">
+Grinch (2000)
+
+<img src="https://raw.githubusercontent.com/lukasbach/movie-color-strip/master/examples/grinch.png" />
+</p>
